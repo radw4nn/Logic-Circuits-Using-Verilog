@@ -1,4 +1,4 @@
-`include "full_adder/full_adder.v"
+`include "../full_adder/full_adder.v"
 
 module ripple_carry_adder(
     input [3:0] A,

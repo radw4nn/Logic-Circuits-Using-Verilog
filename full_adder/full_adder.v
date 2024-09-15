@@ -1,4 +1,4 @@
-`include "half_adder/half_adder.v"
+`include "../half_adder/half_adder.v"
 
 module full_adder(
     input A,

@@ -1,4 +1,4 @@
-`include "ripple_carry_adder.v"
+`include "../ripple_carry_adder/ripple_carry_adder.v"
 
 
 module tb_ripple_carry_adder;

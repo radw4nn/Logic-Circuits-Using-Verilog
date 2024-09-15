@@ -1,4 +1,4 @@
-`include "lookahead_carry_generator.v"
+`include "../ripple_carry_lookahead_adder/lookahead_carry_generator.v"
 
 module ripple_carry_lookahead_adder(
     input [3:0] A,
